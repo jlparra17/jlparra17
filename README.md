@@ -47,10 +47,3 @@
 </p>
 
 
-## 📊 GitHub Stats
-[![Trophy](https://github-profile-trophy.vercel.app/?username=jlparra17&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hola,+soy+Jorge+Parra;Fullstack+Developer;DevOps+%7C+Scrum+Master+%7C+CertiProf;IA+%7C+ML+%7C+React+%7C+Django&center=true&width=500&height=50)](https://github.com/jlparra17)
-![snake gif](https://github.com/jlparra17/jlparra17/blob/output/github-contribution-grid-snake.svg)
-
-## 🔗 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-luis-parra-naula-b2a7591aa/)
