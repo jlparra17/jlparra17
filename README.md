@@ -1,10 +1,11 @@
 # 👋 Hola, soy Jorge Parra 
 
-🎯 Certificado como **Scrum Master**, comprometido con la mejora continua y la entrega de valor.
-🔭 Actualmente desarrollando sistemas Fullstack y aprendiendo Inteligencia Artificial y Machine Learning.  
-🌱 En constante aprendizaje de nuevas tecnologías como React, Django, Flutter, .net y más.  
-💬 Me interesa colaborar en proyectos de impacto real, especialmente en educación y tecnología social.  
-⚡ Fun fact: Apasionado de la música, dibujo y deportes extremos.
+
+🎯 **Certificado como Scrum Master**, comprometido con la mejora continua y la entrega de valor.  
+🧑‍💻 Actualmente desarrollando sistemas **Fullstack** y aprendiendo **Inteligencia Artificial** y **Machine Learning**.  
+🌱 En constante aprendizaje de tecnologías como **React**, **Django**, **Flutter**, **.NET** y más.  
+🤝 Me interesa colaborar en proyectos de **impacto real**, especialmente en educación y tecnología social.  
+🎵 **Fun fact**: Apasionado por la música, el dibujo y los deportes extremos.
 
 
 ## 🧠 Tech Stack
