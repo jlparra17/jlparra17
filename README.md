@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jorge Parra (@jlparra17)
+# 👋 Hola, soy Jorge Parra 
 
 🎯 Certificado como **Scrum Master**, comprometido con la mejora continua y la entrega de valor.
 🔭 Actualmente desarrollando sistemas Fullstack y aprendiendo Inteligencia Artificial y Machine Learning.  
