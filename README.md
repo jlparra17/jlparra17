@@ -41,8 +41,9 @@
 
 ### 🐍 GitHub Snake Contribution
 
+<!-- Snake animation -->
 <p align="center">
-  <img src="https://github.com/jlparra17/jlparra17/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/jlparra17/jlparra17/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 
