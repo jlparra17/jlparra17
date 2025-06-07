@@ -18,10 +18,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="40" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  
+  <!-- Roles y certificaciones -->
   <img src="https://img.icons8.com/ios-filled/50/4B32C3/devops.png" height="40" alt="DevOps" />
   <img src="https://img.icons8.com/ios-filled/50/0052CC/scrum.png" height="40" alt="Scrum Master" />
   <img src="https://img.icons8.com/ios-filled/50/007ACC/certificate.png" height="40" alt="CertiProf" />
