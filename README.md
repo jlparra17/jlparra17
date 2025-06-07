@@ -24,9 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   
   <!-- Roles y certificaciones -->
-  <img src="https://img.icons8.com/ios-filled/50/4B32C3/devops.png" height="40" alt="DevOps" />
-  <img src="https://img.icons8.com/ios-filled/50/0052CC/scrum.png" height="40" alt="Scrum Master" />
-  <img src="https://img.icons8.com/ios-filled/50/007ACC/certificate.png" height="40" alt="CertiProf" />
+  
 </p>
 
 
