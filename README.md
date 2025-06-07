@@ -39,8 +39,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jlparra17&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
+### 🐍 GitHub Snake Contribution
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlparra17&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github.com/jlparra17/jlparra17/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 
