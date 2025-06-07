@@ -14,9 +14,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-blueviolet?logo=azuredevops&logoColor=white)
-![Scrum Master](https://img.shields.io/badge/Scrum_Master-FFA500?logo=jira&logoColor=white)
-![CertiProf](https://img.shields.io/badge/CertiProf-Certified-blue?logo=openbadges&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-4B32C3?logo=azuredevops&logoColor=white)
+![Scrum Master](https://img.shields.io/badge/Scrum_Master-0052CC?logo=jira&logoColor=white)
+![CertiProf](https://img.shields.io/badge/CertiProf-Certified-007ACC?logo=openbadges&logoColor=white)
 
 ## 📊 GitHub Stats
 [![Trophy](https://github-profile-trophy.vercel.app/?username=jlparra17&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
