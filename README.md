@@ -7,6 +7,10 @@
 🤝 Me interesa colaborar en proyectos de **impacto real**, especialmente en educación y tecnología social.  
 🎵 **Fun fact**: Apasionado por la música, el dibujo y los deportes extremos.
 
+🎯 **Certificaciones**:  
+&nbsp;&nbsp;&nbsp;&nbsp;🧩 Scrum Master  
+&nbsp;&nbsp;&nbsp;&nbsp;⚙️ DevOps  
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 OKR
 
 ## 🧠 Tech Stack
 <p align="center">
